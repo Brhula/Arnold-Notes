@@ -12,3 +12,10 @@
 ```C#
 -l \\sloth\3d_share\htoa\htoa-4.3.0_r48c4031_houdini-17.5.391\htoa-4.3.0_r48c4031_houdini-17.5.391\arnold\plugins
 ```
+
+
+## HOUDINI   
+
+### Background images   
+
+To render background images follow this notes: https://weishc.github.io/htoa-set-camera-background-image/    
